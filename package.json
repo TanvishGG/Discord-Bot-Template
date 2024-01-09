@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "a template for coding discord bot using discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanvishGG/Discord-Bot-Template.git"
+  },
+  "keywords": [
+    "discord-bot-template",
+    "discord-bot",
+    "discord.js",
+    "discord"
+  ],
+  "author": "TanvishGG",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TanvishGG/Discord-Bot-Template/issues"
+  },
+  "homepage": "https://github.com/TanvishGG/Discord-Bot-Template#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
