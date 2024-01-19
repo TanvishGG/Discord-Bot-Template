@@ -17,5 +17,7 @@ Respective Examples are provided in each category
 - You can modify the extended Client Structure in `./strctures/client.js`
 - Status can be modified through client structure
 - Configuration file is located inside structures folder
-
+## Discord
+- https://discord.com/invite/xS8b8jQZZK
+  
 ### Made with ❤️ by [TanvishGG](https://github.com/TanvishGG)
