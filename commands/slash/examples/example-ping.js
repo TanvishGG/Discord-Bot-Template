@@ -1,7 +1,7 @@
 const discord= require('discord.js')
 module.exports = {
   data: new discord.SlashCommandBuilder() // Discord.js Slash Command Builder
-  .setName('Ping') // Set a Name
+  .setName('ping') // Set a Name
   .setDescription('Get Ping'), // Set a description
   run: async (client,interaction) => { // Run Fucntion
     let embed = new discord.EmbedBuilder()
